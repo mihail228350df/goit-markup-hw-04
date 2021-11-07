@@ -1,4 +1,5 @@
- :root {
+ 
+:root {
   --current-text-color: #757575;
   --current-title-color: #212121;
   --current-white-color: #ffffff;
@@ -334,8 +335,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 270px;
-  height: 215px;
+  width: px;
+  height: px;
 }
 
 .filter {
@@ -431,8 +432,8 @@ body {
 }
 
 .clients-icon {
-  width: 106px;
-  height: 60px;
+  width: 170px;
+  height: px;
   fill: currentColor;
 }
 
@@ -535,3 +536,4 @@ body {
 .social > .social-list:not(:last-child) {
   margin-right: 10px;
 }
+ 
