@@ -1,4 +1,4 @@
-:root {
+ :root {
   --current-text-color: #757575;
   --current-title-color: #212121;
   --current-white-color: #ffffff;
@@ -183,7 +183,7 @@ body {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url('../images/hero-img-sq.jpg');
+    url('../images/komanda-soweshchaetsa.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -334,8 +334,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70px;
-  height: 70px;
+  width: 270px;
+  height: 215px;
 }
 
 .filter {
